@@ -1,0 +1,21 @@
+{
+  "name": "fetch-lab",
+  "version": "1.0.0",
+  "description": "Ce projet affiche une liste de livres provenant de la célèbre saga Game of Thrones, en utilisant l'API publique [An API of Ice and Fire](https://anapioficeandfire.com/).",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bibi266/fetch-lab-final.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bibi266/fetch-lab-final/issues"
+  },
+  "homepage": "https://github.com/Bibi266/fetch-lab-final#readme"
+}
